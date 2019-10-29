@@ -1,5 +1,5 @@
 ## 🚀 Gatsby App
-A React application using Gatsby.
+A React application using Gatsby
 
 ## 🧐 What's inside?
 
